@@ -9,6 +9,11 @@ body{
   
 }
 
+header{
+height: 150px;
+background-image: url(img/tartarugamar.jpg);
+}
+
 picture{
    padding-top: 30px;
     display: block;
